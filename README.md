@@ -1,14 +1,18 @@
-# aoc2020
+# Overview
 
-A Clojure library designed to ... well, that part is up to you.
+Clojure solutions to Advent of Code 2020.
+
+https://adventofcode.com/
 
 ## Usage
 
-FIXME
+Sources are in the `days` namespace. Load this project in a REPL and call the solutions from the respective namespace.
+
+Example: `aoc2020.days.day1/part-1`.
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Qwertee
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
